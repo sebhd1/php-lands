@@ -873,5 +873,13 @@
   "link": "https://www.phpugly.com/",
   "x": "20201",
   "y": "3170"
-}
+},
+
+  {
+    "title": "Composer",
+    "desc": "Composer is a tool for dependency management in PHP. It allows you to declare the libraries your project depends on and it will manage (install/update) them for you.",
+    "link": "https://getcomposer.org/",
+    "x": "9970",
+    "y": "4436"
+  }
 ]}
